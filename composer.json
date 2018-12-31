@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-view-helper-url",
+    "name": "donkeyworks/zendframework1-view-helper-url",
     "description": "Zend Framework 1 View_Helper_Url component",
     "type": "library",
     "keywords": [
@@ -12,8 +12,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-controller": "^1.0.0",
-        "diablomedia/zendframework1-view": "^1.0.0"
+        "donkeyworks/zendframework1-controller": "^1.0.0",
+        "donkeyworks/zendframework1-view": "^1.0.0"
     },
     "autoload": {
         "classmap": [
